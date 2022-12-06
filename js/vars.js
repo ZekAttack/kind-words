@@ -114,8 +114,8 @@ var w3 = "Welcome: I hope that you are able to welcome new experiences and oppor
 var wList = [w1, w2, w3]
 
 var x1 = "Xenial: Be xenial and open-minded in your interactions with others. You never know what you might learn or discover if you're willing to listen and to understand different perspectives."
-var x2 = "Don't be afraid to be xenodochial and welcoming to those who are different from you. The world is full of diverse people and cultures, and embracing that diversity can help us all to grow and learn from one another."
-var x3 = "Remember to practice xenodochy and to show kindness and hospitality to others, regardless of who they are or where they come from. A little bit of kindness can go a long way in making the world a better place for everyone."
+var x2 = "Xenodochial: Don't be afraid to be xenodochial and welcoming to those who are different from you. The world is full of diverse people and cultures, and embracing that diversity can help us all to grow and learn from one another."
+var x3 = "Xenodochy: Remember to practice xenodochy and to show kindness and hospitality to others, regardless of who they are or where they come from. A little bit of kindness can go a long way in making the world a better place for everyone."
 var xList = [x1, x2, x3]
 
 var y1 = "Yearn: It's okay to yearn for something more in life. We all have dreams and aspirations, and it's important to pursue them in order to live a fulfilling and satisfying life."
