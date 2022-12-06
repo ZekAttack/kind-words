@@ -63,67 +63,67 @@ var m2 = "Mentor: I hope there is someone in your life that can mentor and guide
 var m3 = "Meaning: You deserve nothing less than the very best and I hope you are able to come up with what the meaning of your life is."
 var mList = [m1, m2, m3]
 
-var n1 = ""
-var n2 = ""
-var n3 = ""
+var n1 = "Nurture: I hope you are able to nurture your relationships and connections with others. Let your warmth, compassion, and empathy help you to build strong, healthy bonds with those you care about."
+var n2 = "Nature: Let the beauty and serenity of nature inspire and uplift you. You deserve the chance to be able to just breathe."
+var n3 = "Nobility: Be noble in your feelings, and don’t be afraid to let compassion, empathy, and kindness guide your actions. Your goodness and generosity are your greatest assets, so don’t let anyone else tell you otherwise."
 var nList = [n1, n2, n3]
 
-var o1 = ""
-var o2 = ""
-var o3 = ""
+var o1 = "Optimism: Even if you are not able to have optimism in all situations, that is fine. We all have our moments and it makes us no less human."
+var o2 = "Overcome: Whatever challenges you're facing, know that you have the strength and resilience to overcome them. Don't give up, and keep pushing forward."
+var o3 = "Omit: If you're feeling overwhelmed, it might be helpful to omit anything that isn't necessary from your life. This can help clear your mind and allow you to focus on what truly matters."
 var oList = [o1, o2, o3]
 
-var p1 = ""
-var p2 = ""
-var p3 = ""
-var pList = [p1, p2, cp]
+var p1 = "Patient: Patience is key when it comes to achieving your goals. Don't give up, and remember that good things take time."
+var p2 = "Proud: You should be proud of yourself for all that you've accomplished. Keep up the good work and don't let anyone else's opinions hold you back."
+var p3 = "Positive: Keep a positive mindset, even in the face of challenges. This can help you stay motivated and focused on what you want to achieve."
+var pList = [p1, p2, p3]
 
-var q1 = ""
-var q2 = ""
-var q3 = ""
+var q1 = "Quirks: Embrace your quirks and be yourself. You are unique, and that's what makes you special. Don't be afraid to let your true self shine."
+var q2 = "Quiet: Sometimes, the hustle and bustle of everyday life can be overwhelming. You deserve the chance to just take a quiet moment to yourself, however that looks to you."
+var q3 = "Qualified: If you're feeling insecure or unsure of yourself, remember that you are more than qualified to handle whatever comes your way. You have the skills, abilities, and determination to succeed."
 var qList = [q1, q2, q3]
 
-var r1 = ""
-var r2 = ""
-var r3 = ""
-var cList = [r1, r2, r3]
+var r1 = "Refresh: If you're feeling drained or burnt out, it can be helpful to take some time to refresh your mind and body. This could involve taking a break, trying something new, or simply taking some time for yourself."
+var r2 = "Restore: If you're feeling down or low, remember that you have the strength and resilience to restore yourself. You can bounce back from adversity and come out stronger than before."
+var r3 = "Rejoice: If you're feeling happy or grateful, don't be afraid to let that joy and gratitude shine through. Rejoice in the good things in your life, and let that positivity inspire and uplift those around you."
+var rList = [r1, r2, r3]
 
-var s1 = ""
-var s2 = ""
-var s3 = ""
-var cList = [s1, s2, s3]
+var s1 = "Soothe: When you're feeling anxious or stressed, remember that you have the power to calm and soothe yourself. Take a deep breath, let go of your worries, and focus on the present moment. You've got this!"
+var s2 = "Surrender: Sometimes, it can be helpful to let go of your attachment to a particular outcome and surrender to the present moment. This can help you find peace and clarity, and allow you to move forward with more ease and grace. You are stronger than you realize, so trust in yourself and let go of any fears or doubts that may be holding you back."
+var s3 = "Sustain: If you're feeling motivated and inspired, remember that you have the power to sustain that feeling. Set goals, make plans, and take action to keep moving forward. You are capable of achieving great things, so don't let anything hold you back"
+var sList = [s1, s2, s3]
 
-var t1 = ""
-var t2 = ""
-var t3 = ""
+var t1 = "Trust: If you're feeling unsure or uncertain, remember that you have the power to trust yourself. You are capable and competent, and you have the inner wisdom and strength to navigate any situation."
+var t2 = "Transform: No matter what happens, you have the ability to transform your life into something that you want. Never lose sight of that."
+var t3 = "Thrive: Despite the challenges you may face, I hope that you find the strength to thrive and flourish. You deserve to live a happy and fulfilling life, and I believe in your ability to make that happen."
 var tList = [t1, t2, t3]
 
-var u1 = ""
-var u2 = ""
-var u3 = ""
+var u1 = "Understand: Take the time to understand yourself and your own needs, as well as those of others. This will help you to build stronger, more meaningful relationships and to live a more fulfilling life"
+var u2 = "Unleash: Don't be afraid to unleash your full potential and to chase after your dreams. You have unique talents and abilities that are worth pursuing, and you deserve to live a life that brings you joy and fulfillment."
+var u3 = "Unwind: Remember to take some time for yourself to unwind and relax. Life can be hectic and stressful at times, but it's important to take care of your mental and emotional health. Allow yourself the opportunity to recharge and to come back even stronger."
 var uList = [u1, u2, u3]
 
-var v1 = ""
-var v2 = ""
-var v3 = ""
+var v1 = "Venture: Don't be afraid to venture outside of your comfort zone and to try new things. Life is full of opportunities and adventures, and you never know what you might discover if you're willing to take a few risks."
+var v2 = "Vibrant: I hope that you are able to live a vibrant and fulfilling life, full of excitement and passion. You deserve to feel alive and to experience all that the world has to offer."
+var v3 = "Victory: Don't let setbacks or challenges defeat you. Remember that you are strong and capable, and that you can achieve victory over any obstacle that comes your way. Keep pushing forward, and you will find success."
 var vList = [v1, v2, v3]
 
-var w1 = ""
-var w2 = ""
-var w3 = ""
+var w1 = "Wander: Don't be afraid to wander and explore the world around you. There is so much to see and discover, and you never know what you might find if you're willing to take a few chances."
+var w2 = "Worry: It's natural to feel worried or anxious at times, but remember that you are stronger than you know. You can overcome any challenge that comes your way, so don't let your worries hold you back."
+var w3 = "Welcome: I hope that you are able to welcome new experiences and opportunities into your life with open arms. The world is full of possibilities, and you never know what amazing things might be waiting for you just around the corner."
 var wList = [w1, w2, w3]
 
-var x1 = ""
-var x2 = ""
-var x3 = ""
+var x1 = "Xenial: Be xenial and open-minded in your interactions with others. You never know what you might learn or discover if you're willing to listen and to understand different perspectives."
+var x2 = "Don't be afraid to be xenodochial and welcoming to those who are different from you. The world is full of diverse people and cultures, and embracing that diversity can help us all to grow and learn from one another."
+var x3 = "Remember to practice xenodochy and to show kindness and hospitality to others, regardless of who they are or where they come from. A little bit of kindness can go a long way in making the world a better place for everyone."
 var xList = [x1, x2, x3]
 
-var y1 = ""
-var y2 = ""
-var y3 = ""
+var y1 = "Yearn: It's okay to yearn for something more in life. We all have dreams and aspirations, and it's important to pursue them in order to live a fulfilling and satisfying life."
+var y2 = "Yield: There will be times when you need to yield and give in to others, but remember that it's also important to stand up for yourself and your beliefs. Find a balance and don't be afraid to speak up when it matters."
+var y3 = "Yoke: Don't let the yoke of fear or uncertainty hold you back. You are strong and capable, and you can overcome any challenge that comes your way. Trust in yourself and your abilities, and you will find success."
 var yList = [y1, y2, y3]
 
-var z1 = ""
-var z2 = ""
-var z3 = ""
+var z1 = "Zeal: Have zeal and enthusiasm for life, and pursue your passions with energy and determination. Life is short, and it's important to make the most of every day."
+var z2 = "Zest: Add some zest and spice to your life by trying new things and stepping outside of your comfort zone. The world is full of opportunities and adventures, and you never know what you might discover if you're willing to take a few risks"
+var z3 = "Zigzag: Don't be afraid to zigzag and take the road less traveled. Sometimes the most unexpected paths can lead to the most rewarding destinations. Trust your instincts and follow your heart, and you will find success and fulfillment."
 var zList = [z1, z2, z3]
